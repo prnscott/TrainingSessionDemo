@@ -106,7 +106,7 @@ This is done with the `git push` command
 
 Now that we have pushed the changes to GitHub, we can view the changed `names.txt` file
 
-![](push2.png)
+![](images/push2.png)
 
 ## 4. Create a pull request
 
